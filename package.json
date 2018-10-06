@@ -1,0 +1,22 @@
+{
+  "name": "mikaelbang.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaelbang/mikaelbang.github.io.git"
+  },
+  "author": "mikaelbang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikaelbang/mikaelbang.github.io/issues"
+  },
+  "homepage": "https://github.com/mikaelbang/mikaelbang.github.io#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
